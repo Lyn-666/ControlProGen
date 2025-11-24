@@ -1,5 +1,5 @@
 import pandas as pd
-from protgen.backend.models import run_training,run_generation
+from ControlProGen.backend.models import run_training,run_generation
 import streamlit as st
 import sys
 import io
