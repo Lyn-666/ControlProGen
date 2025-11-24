@@ -34,7 +34,7 @@ from peft import LoraConfig,get_peft_model
 import torch
 import re
 from datasets import Dataset
-from dataprocess import *
+from ControlProGen.backend.dataprocess import *
 from itertools import chain
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
