@@ -1,7 +1,8 @@
-#ICE
+ICE
+
 This project is related to the design-build-test-learn loop for protein engineering. We present an AutoML workflow that is user-friendly for all users. Our learning-generation model is combined into the AutoML workflow and presented in the visualization web server. 
 
-How to use `controlprogen`:
+How to use `ICE`:
 
 1. Create environment
 ```
